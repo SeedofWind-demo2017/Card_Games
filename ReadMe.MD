@@ -9,4 +9,7 @@ After Compiling. Run ./cardgame gametype playerName1, PlayerName2
 
     * ./cardgame FiveCardDraw seed seed2
     * ./cardgame TexasHoldem seed seed2 
-    
+
+## Approach
+
+Full OOP design, see code for details
