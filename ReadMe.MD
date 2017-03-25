@@ -1,4 +1,4 @@
-##### Card Game
+## Card Game
 
 A simple console app written in C++ to play two card games
     * Texas Holdem
